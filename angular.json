@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "first-workshop"
+  "defaultProject": "first-workshop",
+  "cli": {
+    "analytics": "f8e81c18-c39a-45a8-9635-5cdea9877e33"
+  }
 }

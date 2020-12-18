@@ -1,0 +1,24 @@
+// .row.content {
+//   height: 80vh;
+// }
+
+.sidenav {
+  padding-top: 20px;
+  background-color: #a2ebdb56;
+  height: 100%;
+}
+
+// @media screen and (max-width: 900px) {
+//   .sidenav {
+//     height: auto;
+//     padding: 200px;
+//   }
+//   .row.content {
+//     height: auto;
+//   }
+// }
+
+p {
+  column-count: 3;
+  background-color: lightcoral;
+}
